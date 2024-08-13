@@ -1,4 +1,4 @@
-## Boas vindas perfil
+### Boas vindas perfil 
 
 Meu nome é Bruna Sousa
 
@@ -6,4 +6,9 @@ Meu nome é Bruna Sousa
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-  ### Você pode entrar em contato comigo ###
+  ### Você pode entrar em contato comigo
+  
+00001103433027sp@al.educacao.sp.gov.br
+
+
+https://media.tenor.com/JN7tI4G92fkAAAAi/canticos-heart.gif
