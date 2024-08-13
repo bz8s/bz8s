@@ -1,6 +1,6 @@
 ### Boas vindas perfil 💖
 
-Meu nome é Bruna Sousa
+Meu nome é **Bruna Sousa**
 
 - Estou estudando no [Alura](https://www.alura.com.br/)
 - Estou me desenvolvendo na linguagem JavaScript
